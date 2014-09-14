@@ -17,7 +17,14 @@
         "symfony/monolog-bundle": "~2.4",
         "sensio/distribution-bundle": "~3.0",
         "sensio/framework-extra-bundle": "~3.0",
-        "incenteev/composer-parameter-handler": "~2.0"
+        "incenteev/composer-parameter-handler": "~2.0",
+
+        "sonata-project/admin-bundle": "~2.3",
+        "sonata-project/doctrine-orm-admin-bundle": "~2.3",
+        "sonata-project/jquery-bundle": "dev-master",
+        "sonata-project/media-bundle": "~2.3",
+        "jms/serializer-bundle": "~0.13",
+        "knplabs/knp-menu-bundle": "~2.0"
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3"

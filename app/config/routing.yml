@@ -1,0 +1,6 @@
+sonata:
+    resource: 'routing/sonata.yml'
+
+irvyne_blog:
+    resource: "@IrvyneBlogBundle/Resources/config/routing.yml"
+    prefix:   /
